@@ -22,11 +22,7 @@ A powerful and extensible **node-based image editing** desktop application built
 | 💡 **Brightness/Contrast** | Adjustable sliders with reset |
 | 🌀 **Gaussian Blur**       | Blur with radius + kernel preview |
 | 🧪 **Threshold**           | Binary, Adaptive, Otsu methods |
-| ⚡ **Edge Detection**      | Sobel and Canny with overlays |
-| 🎨 **Color Splitter**      | Break into R/G/B channels |
-| 🧷 **Blend**               | 5 Blend modes + mix slider |
 | 🎲 **Noise Generator**     | Perlin, Simplex, Worley |
-| 🧠 **Convolution Filter**  | Custom 3x3/5x5 kernels |
 | 💾 **Output Node**         | Save image with format/quality |
 
 ---
