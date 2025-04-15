@@ -1,6 +1,6 @@
 # 🎨✨ Node-Based Image Processor
 
-A powerful and extensible **node-based image editing** desktop application built with **C++**, **Qt**, and **OpenCV**. Inspired by tools like **Substance Designer**, this app allows users to process images using a visual node editor.
+A powerful and extensible **node-based image editing** desktop application built with **C++**, **Qt**, and **OpenCV**. This app allows users to process images using a visual node editor.
 
 ---
 
